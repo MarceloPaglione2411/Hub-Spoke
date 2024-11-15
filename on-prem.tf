@@ -21,7 +21,7 @@ resource "azurerm_virtual_network" "onprem-vnet" {
 }
 
 resource "azurerm_subnet" "onprem-gateway-subnet" {
-  name                = "Gateway-subnet"
+  name                = "GatewaySubnet"
   resource_group_name = azurerm_resource_group.onprem-vnet-rg.name
   virtual_network_name = azurerm_virtual_network.onprem-vnet.name
   address_prefixes     = ["192.168.255.224/27"]
