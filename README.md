@@ -23,5 +23,5 @@ spoke1.tf =	Criar uma rede virtual spoke com o Terraform no Azure
 
 spoke2.tf =	Criar uma rede virtual spoke com o Terraform no Azure
 
-![image](https://github.com/user-attachments/assets/98c5897c-94e3-4c05-b63d-dc24e03a12e3)
+
 
