@@ -21,3 +21,6 @@ hub-nva.tf =	Criar um dispositivo de rede virtual de hub com o Terraform no Azur
 spoke1.tf =	Criar uma rede virtual spoke com o Terraform no Azure
 
 spoke2.tf =	Criar uma rede virtual spoke com o Terraform no Azure
+
+
+![Diagrama do Projeto](hub-spoke.jpg)
