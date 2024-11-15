@@ -1,6 +1,7 @@
 # Hub-Spoke
 
-A arquitetura Azure Hub and Spoke é um padrão de design usado para conectar várias redes virtuais no Azure, fornecendo um hub central para conectividade e segurança de rede. Essa arquitetura está se tornando cada vez mais popular à medida que as organizações buscam fazer a transição da infraestrutura local para a nuvem. Neste artigo, exploraremos os benefícios da arquitetura Azure Hub and Spoke
+Uma topologia de hub e spoke é uma maneira de isolar as cargas de trabalho enquanto se compartilham serviços comuns. Esses serviços incluem a identidade e segurança. O hub é uma rede virtual (VNet) no Azure que atua como ponto central de conectividade para sua rede local. Os spokes são VNets que se emparelham com o hub. Os serviços compartilhados são implantados no hub, enquanto as cargas de trabalho individuais são implantadas dentro das redes de spoke.
+Essa arquitetura está se tornando cada vez mais popular à medida que as organizações buscam fazer a transição da infraestrutura local para a nuvem. Neste artigo, exploraremos os benefícios da arquitetura Azure Hub and Spoke
 
 # Tecnologia Relacionadas
 . Azure
