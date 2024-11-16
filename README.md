@@ -33,6 +33,3 @@ Eficiência: Gerenciamento simplificado e compartilhamento de serviços essencia
 ![image](https://github.com/user-attachments/assets/c6416e33-5370-4a9c-97a0-39ff474e2437)
 
 
-![image](https://github.com/MarceloPaglione2411/Hub-Spoke/hub.spoke.svg)
-
-
