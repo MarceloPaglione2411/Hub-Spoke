@@ -23,6 +23,13 @@ spoke1.tf =	Criar uma rede virtual spoke com o Terraform no Azure
 
 spoke2.tf =	Criar uma rede virtual spoke com o Terraform no Azure
 
+# Benefícios da Arquitetura
+Segurança: Comunicação centralizada com inspeção de tráfego no hub.
+
+Escalabilidade: Adição fácil de novos spokes conforme o crescimento das demandas.
+
+Eficiência: Gerenciamento simplificado e compartilhamento de serviços essenciais no hub.
+
 ![image](https://github.com/user-attachments/assets/c6416e33-5370-4a9c-97a0-39ff474e2437)
 
 
